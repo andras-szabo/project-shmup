@@ -1,0 +1,8 @@
+ID boss1
+TYPE boss
+TEXTURE tex
+TEXRECT 194 64 62 62
+AABB -25 -25 50 50
+HPDMG 4500
+TURRET 0 -20
+SHOTS 5times4 unfolding

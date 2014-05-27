@@ -1,0 +1,16 @@
+playerspread
+BULLET proundbullet 0.0 0.0 0.0 -800.0 -25.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 -20.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 -15.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 -10.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 -5.0 noscript
+
+BULLET proundbullet 0.0 0.0 0.0 -800.0 0.0 noscript
+
+BULLET proundbullet 0.0 0.0 0.0 -800.0 5.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 10.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 15.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 20.0 noscript
+BULLET proundbullet 0.0 0.0 0.0 -800.0 25.0 noscript
+
+END

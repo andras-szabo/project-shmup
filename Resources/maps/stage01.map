@@ -1,0 +1,1048 @@
+START 0.0
+500.0 spawn light ship grunt 500.0 -20.0 0.0 0.0 180.0 swingright
+700.0 spawn light ship grunt 500.0 -20.0 0.0 0.0 180.0 swingright
+900.0 spawn light ship grunt 500.0 -20.0 0.0 0.0 180.0 swingright
+1100.0 spawn light ship grunt 500.0 -20.0 0.0 0.0 180.0 swingright
+1300.0 spawn light ship grunt 500.0 -20.0 0.0 0.0 180.0 swingright
+1500.0 spawn light ship grunt 500.0 -20.0 0.0 0.0 180.0 swingright
+1600.0 background setSPI -5.0
+1900.0 spawn dark ship grunt 100.0 -20.0 0.0 0.0 180.0 swingleft
+2100.0 spawn dark ship grunt 100.0 -20.0 0.0 0.0 180.0 swingleft
+2300.0 spawn dark ship grunt 100.0 -20.0 0.0 0.0 180.0 swingleft
+2500.0 spawn dark ship grunt 100.0 -20.0 0.0 0.0 180.0 swingleft
+2700.0 spawn dark ship grunt 100.0 -20.0 0.0 0.0 180.0 swingleft
+2900.0 spawn dark ship grunt 100.0 -20.0 0.0 0.0 180.0 swingleft
+3300.0 spawn dark ship grunt 110.0 -10.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 40.0 -10.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt -30.0 -10.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 110.0 -50.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 40.0 -50.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt -30.0 -50.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 110.0 -90.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 40.0 -90.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt -30.0 -90.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 110.0 -130.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 40.0 -130.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt -30.0 -130.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 110.0 -170.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt 40.0 -170.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn dark ship grunt -30.0 -170.0 0.0 0.0 180.0 picik_elejen
+3300.0 spawn light ship grunt 490.0 -10.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 560.0 -10.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 630.0 -10.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 490.0 -50.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 560.0 -50.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 630.0 -50.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 490.0 -90.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 560.0 -90.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 630.0 -90.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 490.0 -130.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 560.0 -130.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 630.0 -130.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 490.0 -170.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 560.0 -170.0 0.0 0.0 180.0 picik_elejen2
+3300.0 spawn light ship grunt 630.0 -170.0 0.0 0.0 180.0 picik_elejen2
+3400.0 background setSPI 5.0
+6700.0 spawn light ship grunt 150.0 -50.0 0.0 0.0 180.0 3_lefty
+6700.0 spawn light ship grunt 70.0 -50.0 0.0 0.0 180.0 3_lefty
+6700.0 spawn light ship grunt 110.0 -120.0 0.0 0.0 180.0 3_lefty
+7400.0 spawn light ship grunt 450.0 -50.0 0.0 0.0 180.0 3_righty
+7400.0 spawn light ship grunt 530.0 -50.0 0.0 0.0 180.0 3_righty
+7400.0 spawn light ship grunt 490.0 -120.0 0.0 0.0 180.0 3_righty
+8000.0 background setSPI -10.0
+8000.0 spawn dark ship grunt 450.0 -50.0 0.0 0.0 180.0 3_righty
+8000.0 spawn dark ship grunt 530.0 -50.0 0.0 0.0 180.0 3_righty
+8000.0 spawn dark ship grunt 490.0 -120.0 0.0 0.0 180.0 3_righty
+8500.0 spawn dark ship grunt 150.0 -50.0 0.0 0.0 180.0 3_lefty
+8500.0 spawn dark ship grunt 70.0 -50.0 0.0 0.0 180.0 3_lefty
+8500.0 spawn dark ship grunt 110.0 -120.0 0.0 0.0 180.0 3_lefty
+8900.0 spawn light ship grunt 150.0 -50.0 0.0 0.0 180.0 3_lefty
+8900.0 spawn light ship grunt 70.0 -50.0 0.0 0.0 180.0 3_lefty
+8900.0 spawn light ship grunt 110.0 -120.0 0.0 0.0 180.0 3_lefty
+9200.0 spawn dark ship grunt 450.0 -50.0 0.0 0.0 180.0 3_righty
+9200.0 spawn dark ship grunt 530.0 -50.0 0.0 0.0 180.0 3_righty
+9200.0 spawn dark ship grunt 490.0 -120.0 0.0 0.0 180.0 3_righty
+9400.0 spawn light ship biff 150.0 -50.0 0.0 0.0 180.0 burster_left
+9400.0 spawn light ship biff 70.0 -50.0 0.0 0.0 180.0 burster_left
+9400.0 spawn light ship biff 110.0 -120.0 0.0 0.0 180.0 burster_left
+9600.0 spawn dark ship biff 450.0 -50.0 0.0 0.0 180.0 burster_right
+9600.0 spawn dark ship biff 530.0 -50.0 0.0 0.0 180.0 burster_right
+9600.0 spawn dark ship biff 490.0 -120.0 0.0 0.0 180.0 burster_right
+11800.0 spawn dark ship biff 70.0 -50.0 0.0 0.0 180.0 burster_left
+11800.0 spawn dark ship biff 147.0 -120.0 0.0 0.0 180.0 burster_left
+11800.0 spawn light ship biff 224.0 -50.0 0.0 0.0 180.0 burster_left
+11800.0 spawn dark ship biff 377.0 -50.0 0.0 0.0 180.0 burster_right
+11800.0 spawn light ship biff 453.0 -120.0 0.0 0.0 180.0 burster_right
+11800.0 spawn light ship biff 530.0 -50.0 0.0 0.0 180.0 burster_right
+
+12800.0 background adjVEL 0.0 200.0
+
+13700.0 spawn light ship biff2 530.0 -130.0 0.0 0.0 180.0 rswing1
+14200.0 spawn light ship biff2 70.0 -130.0 0.0 0.0 180.0 lswing1
+14700.0 spawn light ship biff2 530.0 -130.0 0.0 0.0 180.0 rswing1
+15200.0 spawn light ship biff2 80.0 -30.0 0.0 0.0 180.0 zigzag
+15600.0 spawn light ship biff2 80.0 -130.0 0.0 0.0 180.0 zigzag
+15900.0 spawn dark ship biff2 420.0 -30.0 0.0 0.0 180.0 zigzag2
+16200.0 spawn dark ship grunt 70.0 -20.0 0.0 400.0 180.0 brownscript
+16200.0 spawn dark ship grunt 530.0 -20.0 0.0 400.0 180.0 brownscript
+16200.0 spawn dark ship biff2 420.0 -130.0 0.0 0.0 180.0 zigzag2
+16400.0 spawn light ship biff2 80.0 -130.0 0.0 0.0 180.0 zigzag
+16700.0 spawn dark ship grunt 70.0 -20.0 0.0 500.0 180.0 brownscript
+16700.0 spawn dark ship grunt 530.0 -20.0 0.0 500.0 180.0 brownscript
+16800.0 spawn dark ship biff2 420.0 -130.0 0.0 0.0 180.0 zigzag2
+17200.0 spawn dark ship grunt 70.0 -20.0 0.0 580.0 180.0 brownscript
+17200.0 spawn dark ship grunt 530.0 -20.0 0.0 580.0 180.0 brownscript
+
+17800.0 background setSPI -45.0
+
+20500.0 spawn dark ship biff 55.0 120.0 0.0 0.0 180.0 swap_right
+20500.0 spawn light ship biff 125.0 120.0 0.0 0.0 180.0 swap_left
+20500.0 spawn dark ship biff 55.0 270.0 0.0 0.0 180.0 swap_right
+20500.0 spawn light ship biff 125.0 270.0 0.0 0.0 180.0 swap_left
+20500.0 spawn dark ship biff 475.0 120.0 0.0 0.0 180.0 swap_right
+20500.0 spawn light ship biff 545.0 120.0 0.0 0.0 180.0 swap_left
+20500.0 spawn dark ship biff 475.0 270.0 0.0 0.0 180.0 swap_right
+20500.0 spawn light ship biff 545.0 270.0 0.0 0.0 180.0 swap_left
+20500.0 spawn dark ship biff 195.0 95.0 0.0 0.0 180.0 swap_right
+20500.0 spawn dark ship biff 195.0 165.0 0.0 0.0 180.0 swap_right
+20500.0 spawn dark ship biff 195.0 235.0 0.0 0.0 180.0 swap_right
+20500.0 spawn dark ship biff 195.0 305.0 0.0 0.0 180.0 swap_right
+20500.0 spawn light ship biff 265.0 95.0 0.0 0.0 180.0 swap_left
+20500.0 spawn light ship biff 265.0 165.0 0.0 0.0 180.0 swap_left
+20500.0 spawn light ship biff 265.0 235.0 0.0 0.0 180.0 swap_left
+20500.0 spawn light ship biff 265.0 305.0 0.0 0.0 180.0 swap_left
+20500.0 spawn dark ship biff 335.0 95.0 0.0 0.0 180.0 swap_right
+20500.0 spawn dark ship biff 335.0 165.0 0.0 0.0 180.0 swap_right
+20500.0 spawn dark ship biff 335.0 235.0 0.0 0.0 180.0 swap_right
+20500.0 spawn dark ship biff 335.0 305.0 0.0 0.0 180.0 swap_right
+20500.0 spawn light ship biff 405.0 95.0 0.0 0.0 180.0 swap_left
+20500.0 spawn light ship biff 405.0 165.0 0.0 0.0 180.0 swap_left
+20500.0 spawn light ship biff 405.0 235.0 0.0 0.0 180.0 swap_left
+20500.0 spawn light ship biff 405.0 305.0 0.0 0.0 180.0 swap_left
+
+21000.0 background setSPI 0.0
+
+25000.0 spawn light ship boss1 100.0 -20.0 0.0 40.0 180.0 firstboss
+25000.0 spawn dark ship boss1 500.0 -20.0 0.0 40.0 180.0 firstboss
+
+26000.0 background setSPI -2.0
+26000.0 background adjVEL 0.0 100.0
+26000.0 background setSPI 2.0
+
+26200.0 JUMP_TO 35500
+
+36000.0 spawn light ship loader 300.0 -50.0 0.0 0.0 180.0 loader_dude
+
+40000.0 background setSPI -3.0
+
+40400.0 spawn light ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+40400.0 spawn dark ship weaker 220.0 -10.0 0.0 100.0 180.0 kamikaze
+40400.0 spawn dark ship weaker 380.0 -10.0 0.0 100.0 180.0 kamikaze
+
+41700.0 spawn dark ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+41700.0 spawn light ship weaker 220.0 -10.0 0.0 100.0 180.0 kamikaze
+41700.0 spawn light ship weaker 380.0 -10.0 0.0 100.0 180.0 kamikaze
+41700.0 spawn dark ship weaker 140.0 0.0 0.0 100.0 180.0 kamikaze
+41700.0 spawn dark ship weaker 460.0 0.0 0.0 100.0 180.0 kamikaze
+
+42800.0 spawn light ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+42800.0 spawn dark ship weaker 220.0 -15.0 0.0 100.0 180.0 kamikaze
+42800.0 spawn dark ship weaker 380.0 -15.0 0.0 100.0 180.0 kamikaze
+42800.0 spawn light ship weaker 140.0 -10.0 0.0 100.0 180.0 kamikaze
+42800.0 spawn light ship weaker 460.0 -10.0 0.0 100.0 180.0 kamikaze
+42800.0 spawn dark ship weaker 60.0 -5.0 0.0 100.0 180.0 kamikaze
+42800.0 spawn dark ship weaker 540.0 -5.0 0.0 100.0 180.0 kamikaze
+
+43000.0 background setSPI 10.0
+
+43600.0 spawn dark ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn light ship weaker 220.0 -15.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn light ship weaker 380.0 -15.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn dark ship weaker 140.0 -10.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn dark ship weaker 460.0 -10.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn light ship weaker 60.0 -5.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn light ship weaker 540.0 -5.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn dark ship weaker -20.0 0.0 0.0 100.0 180.0 kamikaze
+43600.0 spawn dark ship weaker 620.0 0.0 0.0 100.0 180.0 kamikaze
+
+44200.0 spawn light ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn dark ship weaker 220.0 -15.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn dark ship weaker 380.0 -15.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn light ship weaker 140.0 -10.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn light ship weaker 460.0 -10.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn dark ship weaker 60.0 -5.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn dark ship weaker 540.0 -5.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn light ship weaker -20.0 0.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn light ship weaker 620.0 0.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn dark ship weaker -40.0 60.0 0.0 100.0 180.0 kamikaze
+44200.0 spawn dark ship weaker 640.0 60.0 0.0 100.0 180.0 kamikaze
+
+44800.0 spawn dark ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn light ship weaker 220.0 -15.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn light ship weaker 380.0 -15.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn dark ship weaker 140.0 -10.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn dark ship weaker 460.0 -10.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn light ship weaker 60.0 -5.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn light ship weaker 540.0 -5.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn dark ship weaker -20.0 0.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn dark ship weaker 620.0 0.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn light ship weaker -40.0 60.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn light ship weaker 640.0 60.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn dark ship weaker -120 100.0 0.0 100.0 180.0 kamikaze
+44800.0 spawn dark ship weaker 700.0 100.0 0.0 100.0 180.0 kamikaze
+
+45000.0 background setSPI -20.0
+
+45450.0 spawn light ship weaker 300.0 -20.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker 220.0 -15.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker 380.0 -15.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn light ship weaker 140.0 -10.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn light ship weaker 460.0 -10.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker 60.0 -5.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker 540.0 -5.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn light ship weaker -20.0 0.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn light ship weaker 620.0 0.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker -40.0 60.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker 640.0 60.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn light ship weaker -120.0 100.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn light ship weaker 700.0 100.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker -160.0 180.0 0.0 100.0 180.0 kamikaze
+45450.0 spawn dark ship weaker 680.0 180.0 0.0 100.0 180.0 kamikaze
+
+47000.0 background setSPI 1.0
+47000.0 background adjVEL 0.0 -200.0
+
+47000.0 spawn light ship bigpart_left 100.0 -180.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_right 130.0 -180.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_left 100.0 -132.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_right 130.0 -132.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_left 100.0 -84.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_right 130.0 -84.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_left 100.0 -36.0 0.0 0.0 180.0 big_first
+47000.0 spawn light ship bigpart_right 130.0 -36.0 0.0 0.0 180.0 big_first
+
+49100.0 spawn dark ship bigpart_left 100.0 -180.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_right 130.0 -180.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_left 100.0 -132.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_right 130.0 -132.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_left 100.0 -84.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_right 130.0 -84.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_left 100.0 -36.0 0.0 0.0 180.0 big_first
+49100.0 spawn dark ship bigpart_right 130.0 -36.0 0.0 0.0 180.0 big_first
+
+50900.0 spawn light ship bigpart_left 100.0 -180.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_right 130.0 -180.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_left 100.0 -132.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_right 130.0 -132.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_left 100.0 -84.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_right 130.0 -84.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_left 100.0 -36.0 0.0 0.0 180.0 big_first
+50900.0 spawn light ship bigpart_right 130.0 -36.0 0.0 0.0 180.0 big_first
+
+50950.0 background setSPI -0.1
+
+51000.0 spawn dark ship bigpart_left 440.0 780.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_right 470.0 780.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_left 440.0 732.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_right 470.0 732.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_left 440.0 684.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_right 470.0 684.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_left 440.0 636.0 0.0 0.0 180.0 big_second
+51000.0 spawn dark ship bigpart_right 470.0 636.0 0.0 0.0 180.0 big_second
+
+52800.0 spawn light ship bigpart_left 440.0 780.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_right 470.0 780.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_left 440.0 732.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_right 470.0 732.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_left 440.0 684.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_right 470.0 684.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_left 440.0 636.0 0.0 0.0 180.0 big_second
+52800.0 spawn light ship bigpart_right 470.0 636.0 0.0 0.0 180.0 big_second
+
+60500.0 spawn neutral wall wallblock 80.0 -20.0 0.0 400.0 0.0 noscript
+60500.0 spawn neutral wall wallblock 140.0 -20.0 0.0 400.0 0.0 noscript
+60500.0 spawn neutral wall wallblock 200.0 -20.0 0.0 400.0 0.0 noscript
+60500.0 spawn neutral wall wallblock 260.0 -20.0 0.0 400.0 0.0 noscript
+60500.0 spawn neutral wall wallblock 460.0 -20.0 0.0 400.0 0.0 noscript
+60500.0 spawn neutral wall wallblock 520.0 -20.0 0.0 400.0 0.0 noscript
+
+60800.0 spawn neutral wall wallblock 120.0 -20.0 0.0 400.0 0.0 noscript
+60800.0 spawn neutral wall wallblock 180.0 -20.0 0.0 400.0 0.0 noscript
+60800.0 spawn neutral wall wallblock 380.0 -20.0 0.0 400.0 0.0 noscript
+60800.0 spawn neutral wall wallblock 440.0 -20.0 0.0 400.0 0.0 noscript
+60800.0 spawn neutral wall wallblock 500.0 -20.0 0.0 400.0 0.0 noscript
+60800.0 spawn neutral wall wallblock 560.0 -20.0 0.0 400.0 0.0 noscript
+
+61100.0 spawn neutral wall wallblock 80.0 -20.0 0.0 400.0 0.0 noscript
+61100.0 spawn neutral wall wallblock 140.0 -20.0 0.0 400.0 0.0 noscript
+61100.0 spawn neutral wall wallblock 200.0 -20.0 0.0 400.0 0.0 noscript
+61100.0 spawn neutral wall wallblock 260.0 -20.0 0.0 400.0 0.0 noscript
+61100.0 spawn neutral wall wallblock 460.0 -20.0 0.0 400.0 0.0 noscript
+61100.0 spawn neutral wall wallblock 520.0 -20.0 0.0 400.0 0.0 noscript
+
+61400.0 spawn neutral wall wallblock 120.0 -20.0 0.0 400.0 0.0 noscript
+61400.0 spawn neutral wall wallblock 180.0 -20.0 0.0 400.0 0.0 noscript
+61400.0 spawn neutral wall wallblock 380.0 -20.0 0.0 400.0 0.0 noscript
+61400.0 spawn neutral wall wallblock 440.0 -20.0 0.0 400.0 0.0 noscript
+61400.0 spawn neutral wall wallblock 500.0 -20.0 0.0 400.0 0.0 noscript
+61400.0 spawn neutral wall wallblock 560.0 -20.0 0.0 400.0 0.0 noscript
+
+61700.0 spawn neutral wall wallblock 20.0 -20.0 0.0 400.0 0.0 noscript
+61700.0 spawn neutral wall wallblock 80.0 -20.0 0.0 400.0 0.0 noscript
+61700.0 spawn neutral wall wallblock 140.0 -20.0 0.0 400.0 0.0 noscript
+61700.0 spawn neutral wall wallblock 200.0 -20.0 0.0 400.0 0.0 noscript
+61700.0 spawn neutral wall wallblock 260.0 -20.0 0.0 400.0 0.0 noscript
+61700.0 spawn neutral wall wallblock 460.0 -20.0 0.0 400.0 0.0 noscript
+61700.0 spawn neutral wall wallblock 520.0 -20.0 0.0 400.0 0.0 noscript
+
+62000.0 background setGRA 0 0 0 -5
+62000.0 background setFAD 0.4
+
+62710.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+62710.0 spawn neutral wall wallblock 570.0 -20.0 0.0 400.0 0.0 noscript
+
+62780.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+62780.0 spawn neutral wall wallblock 570.0 -20.0 0.0 400.0 0.0 noscript
+
+62850.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+62850.0 spawn neutral wall wallblock 570.0 -20.0 0.0 400.0 0.0 noscript
+
+62920.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+62920.0 spawn neutral wall wallblock 570.0 -20.0 0.0 400.0 0.0 noscript
+
+62990.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+62990.0 spawn neutral wall wallblock 570.0 -20.0 0.0 400.0 0.0 noscript
+
+63060.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+63060.0 spawn neutral wall wallblock 570.0 -20.0 0.0 400.0 0.0 noscript
+63060.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+63060.0 spawn neutral wall wallblock 450.0 -20.0 0.0 400.0 0.0 noscript
+63060.0 spawn neutral wall wallblock 510.0 -20.0 0.0 400.0 0.0 noscript
+
+63130.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+63130.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63200.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63200.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63270.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63270.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63340.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63340.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63410.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63410.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63480.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63480.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63550.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63550.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63620.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63620.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63690.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63690.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+63760.0 spawn dark ship toothy 30.0 -20.0 0.0 400.0 90.0 toothyscript
+63760.0 spawn neutral wall wallblock 390.0 -20.0 0.0 400.0 0.0 noscript
+
+64000.0 background setCOL 0 0 0 120
+64000.0 background setGRA 3 1 0 0
+64000.0 background setFAD 0.1
+64000.0 background setROT 0.0
+64000.0 background setSPI 1.5
+
+64140.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64140.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64210.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64210.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64250.0 spawn light ship grunt 540.0 -20.0 0.0 400.0 0.0 spinscript
+
+64280.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64280.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64320.0 spawn light ship grunt 570.0 -20.0 0.0 400.0 0.0 spinscript
+
+64350.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64350.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64390.0 spawn light ship grunt 540.0 -20.0 0.0 400.0 0.0 spinscript
+
+64420.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64420.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64460.0 spawn dark ship grunt 540.0 -20.0 0.0 400.0 0.0 spinscript
+
+64490.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64490.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64530.0 spawn dark ship grunt 570.0 -20.0 0.0 400.0 0.0 spinscript
+
+64560.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64560.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64600.0 spawn dark ship grunt 540.0 -20.0 0.0 400.0 0.0 spinscript
+
+64630.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64630.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+64700.0 spawn neutral wall wallblock 30.0 -20.0 0.0 400.0 0.0 noscript
+64700.0 spawn light ship toothy 450.0 -20.0 0.0 400.0 -90.0 toothyscript
+
+65000.0 spawn light ship biff 10.0 -10.0 280.0 50.0 -180.0 swoosh
+65600.0 spawn light ship biff 10.0 -10.0 280.0 50.0 -180.0 swoosh
+66200.0 spawn light ship biff 10.0 -10.0 280.0 60.0 -180.0 swoosh
+66500.0 spawn dark ship biff 590.0 0.0 -280.0 80.0 -180.0 swoosh
+66800.0 spawn light ship biff 10.0 -10.0 280.0 60.0 -180.0 swoosh
+67000.0 spawn dark ship biff 590.0 0.0 -280.0 80.0 -180.0 swoosh
+67400.0 spawn light ship biff 10.0 -10.0 280.0 70.0 -180.0 swoosh
+67500.0 spawn dark ship biff 590.0 0.0 -280.0 90.0 -180.0 swoosh
+68000.0 spawn dark ship biff 590.0 0.0 -280.0 90.0 -180.0 swoosh
+68000.0 spawn light ship biff 10.0 -10.0 280.0 70.0 -180.0 swoosh
+68500.0 spawn dark ship biff 590.0 0.0 -280.0 100.0 -180.0 swoosh
+68600.0 spawn light ship biff 10.0 -10.0 280.0 80.0 -180.0 swoosh
+69000.0 spawn dark ship biff 590.0 0.0 -280.0 100.0 -180.0 swoosh
+69200.0 spawn light ship biff 10.0 -10.0 280.0 80.0 -180.0 swoosh
+69400.0 spawn dark ship biff 590.0 0.0 -280.0 100.0 -180.0 swoosh
+69700.0 spawn light ship biff 10.0 -10.0 280.0 80.0 -180.0 swoosh
+69700.0 spawn dark ship biff 590.0 0.0 -280.0 120.0 -180.0 swoosh
+70000.0 spawn dark ship biff 590.0 0.0 -280.0 120.0 -180.0 swoosh
+70100.0 spawn light ship biff 10.0 -10.0 280.0 100.0 -180.0 swoosh
+70350.0 spawn dark ship biff 590.0 0.0 -280.0 120.0 -180.0 swoosh
+
+70500.0 background adjVEL 0.0 300.0
+
+71000.0 spawn dark ship butterflyboss 300.0 -20.0 0.0 30.0 -180.0 butterfly
+0 spawn light ship stronger_loader 30.0 -20.0 0.0 30.0 -180.0 bf_helper_left
+0 spawn light ship stronger_loader 570.0 -20.0 0.0 30.0 -180.0 bf_helper_right
+
+71100.0 JUMP_TO 127000
+
+71500 message _BOSS_MET_ END
+
+72000.0 background setSPI 0.8
+
+73000.0 background setFAD 1.0
+
+75000.0 background setSPI 6.0
+
+78000.0 background setSPI 9.0
+
+82000.0 background setSPI 12.0
+
+83000.0 background setGRA -1 2 3 0
+
+85000.0 background setSPI 15.0
+
+90000.0 background setSPI 18.0
+
+95000.0 background setSPI 21.0
+
+100000.0 background setSPI 24.0
+
+105000.0 background setSPI 27.0
+
+110000.0 background setSPI 30.0
+
+127000.0 JUMP_IF_NOT_DEAD 159000
+
+-100 rel_spawn invisible ship grunt 0.0 0.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -20.0 0.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -20.0 -20.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 0.0 -20.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 0.0 0.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -30.0 0.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -30.0 -30.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 0.0 -30.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 0.0 0.0 0.0 0.0 0.0 explodescript
+
+-100 rel_spawn invisible ship grunt -40.0 0.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -40.0 -40.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 0.0 -40.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 20.0 0.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -40.0 -20.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt -20.0 -40.0 0.0 0.0 0.0 explodescript
+-100 rel_spawn invisible ship grunt 0.0 -40.0 0.0 0.0 0.0 explodescript
+-50 rel_spawn invisible ship grunt 50.0 0.0 0.0 0.0 0.0 explodescript
+-50 rel_spawn invisible ship grunt -35.0 -20.0 0.0 0.0 0.0 explodescript
+-50 rel_spawn invisible ship grunt -20.0 -40.0 0.0 0.0 0.0 explodescript
+-50 rel_spawn invisible ship grunt 0.0 -50.0 0.0 0.0 0.0 explodescript
+-25 rel_spawn invisible ship grunt 80.0 0.0 0.0 0.0 0.0 explodescript
+-25 rel_spawn invisible ship grunt -80.0 -80.0 0.0 0.0 0.0 explodescript
+-25 rel_spawn invisible ship grunt -80.0 -40.0 0.0 0.0 0.0 explodescript
+-25 rel_spawn invisible ship grunt 0.0 80.0 0.0 0.0 0.0 explodescript
+
+129800 message Well _ done! __ __ And _ now, __
+for _ something _ completely _ different... __ END
+
+-800 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+-140 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+-140 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+-140 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+
+-140 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+
+-280 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+-140 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+
+-140.0 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+-140.0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 420.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 360.0 -20.0 0.0 400.0 0.0 spinscript
+
+
+-140.0 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn light ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn dark ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70 spawn light ship grunt 120.0 -20.0 0.0 400.0 0.0 spinscript
+
+-70.0 spawn dark ship grunt 180.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 240.0 -20.0 0.0 400.0 0.0 spinscript
+0 spawn dark ship grunt 300.0 -20.0 0.0 400.0 0.0 spinscript
+
+-500.0 message _BONUS_ END
+
+-800 spawn light ship ring 200.0 -20.0 0.0 100.0 0.0 brownscript
+-50 spawn light ship ring 400.0 -20.0 0.0 50.0 0.0 brownscript
+-20 spawn light ship ring 46.0 -20.0 0.0 125.0 0.0 brownscript
+-10 spawn light ship ring 300.0 -20.0 0.0 280.0 0.0 brownscript
+-10 spawn light ship ring 10.0 -20.0 18.0 92.0 0.0 brownscript
+
+-200 spawn dark ship ring 50.0 -20.0 0.0 200.0 0.0 brownscript
+0 spawn dark ship ring 250.0 -20.0 0.0 280.0 0.0 brownscript
+0 spawn dark ship ring 350.0 -20.0 0.0 42.0 0.0 brownscript
+0 spawn dark ship ring 525.0 -20.0 0.0 112.0 0.0 brownscript
+0 spawn dark ship ring 412.0 -20.0 0.0 302.0 0.0 brownscript
+
+-100 spawn light ship ring 60.0 -20.0 0.0 250.0 0.0 brownscript
+0 spawn light ship ring 122.0 -20.0 -5.0 362.0 0.0 brownscript
+0 spawn light ship ring 189.0 -20.0 6.0 445.0 0.0 brownscript
+0 spawn light ship ring 280.0 -20.0 -2.0 60.0 0.0 brownscript
+0 spawn light ship ring 500.0 -20.0 -10.0 144.0 0.0 brownscript
+
+-100 spawn dark ship ring 550.0 -20.0 0.0 300.0 0.0 brownscript
+0 spawn dark ship ring 492.0 -20.0 -22.0 112.0 0.0 brownscript
+0 spawn dark ship ring 400.0 -20.0 8.0 199.0 0.0 brownscript
+0 spawn dark ship ring 343.0 -20.0 -4.0 280.0 0.0 brownscript
+0 spawn dark ship ring 250.0 -20.0 15.0 306.0 0.0 brownscript
+
+-50 spawn light ship ring 100.0 -20.0 4.0 230.0 0.0 brownscript
+0 spawn light ship ring 142.0 -20.0 8.0 85.0 0.0 brownscript
+0 spawn light ship ring 222.0 -20.0 2.0 142.0 0.0 brownscript
+0 spawn light ship ring 300.0 -20.0 0.0 250.0 0.0 brownscript
+0 spawn light ship ring 500.0 -20.0 -20.0 340.0 0.0 brownscript
+
+-100 spawn dark ship ring 20.0 -10.0 10.0 150.0 0.0 brownscript
+0 spawn dark ship ring 100.0 -10.0 12.0 80.0 0.0 brownscript
+0 spawn dark ship ring 180.0 -10.0 5.0 190.0 0.0 brownscript
+0 spawn dark ship ring 260.0 -10.0 0.0 275.0 0.0 brownscript
+0 spawn dark ship ring 340.0 -10.0 0.0 62.0 0.0 brownscript
+0 spawn dark ship ring 420.0 -10.0 -8.0 180.0 0.0 brownscript
+
+-100 spawn light ship ring 20.0 -10.0 50.0 200.0 0.0 brownscript
+0 spawn light ship ring 220.0 -10.0 10.0 400.0 0.0 brownscript
+0 spawn light ship ring 480.0 -10.0 2.0 222.0 0.0 brownscript
+0 spawn light ship ring 345.0 -10.0 -8.0 111.0 0.0 brownscript
+0 spawn light ship ring 112.0 -10.0 18.0 300.0 0.0 brownscript
+
+-100 spawn dark ship ring 300.0 -10.0 -20.0 220.0 0.0 brownscript
+0 spawn dark ship ring 150.0 -10.0 0.0 80.0 0.0 brownscript
+0 spawn dark ship ring 450.0 -10.0 0.0 60.0 0.0 brownscript
+0 spawn dark ship ring 100.0 -10.0 20.0 380.0 0.0 brownscript
+0 spawn dark ship ring 550.0 -10.0 -30.0 170.0 0.0 brownscript
+
+-100 spawn light ship ring 120.0 -10.0 50.0 100.0 0.0 brownscript
+0 spawn light ship ring 220.0 -10.0 10.0 100.0 0.0 brownscript
+0 spawn light ship ring 380.0 -10.0 2.0 322.0 0.0 brownscript
+0 spawn light ship ring 445.0 -10.0 -8.0 211.0 0.0 brownscript
+0 spawn light ship ring 12.0 -10.0 118.0 200.0 0.0 brownscript
+
+-100 spawn dark ship ring 200.0 -10.0 -20.0 220.0 0.0 brownscript
+0 spawn dark ship ring 350.0 -10.0 0.0 280.0 0.0 brownscript
+0 spawn dark ship ring 550.0 -10.0 0.0 360.0 0.0 brownscript
+0 spawn dark ship ring 18.0 -10.0 20.0 380.0 0.0 brownscript
+0 spawn dark ship ring 50.0 -10.0 -30.0 170.0 0.0 brownscript
+
+-100 spawn light ship ring 120.0 -10.0 50.0 400.0 0.0 brownscript
+0 spawn light ship ring 20.0 -10.0 10.0 500.0 0.0 brownscript
+0 spawn light ship ring 280.0 -10.0 2.0 322.0 0.0 brownscript
+0 spawn light ship ring 345.0 -10.0 -8.0 411.0 0.0 brownscript
+0 spawn light ship ring 512.0 -10.0 18.0 300.0 0.0 brownscript
+
+-200 spawn dark ship ring 150.0 -20.0 0.0 300.0 0.0 brownscript
+0 spawn dark ship ring 50.0 -20.0 0.0 480.0 0.0 brownscript
+0 spawn dark ship ring 350.0 -20.0 0.0 242.0 0.0 brownscript
+0 spawn dark ship ring 532.0 -20.0 0.0 512.0 0.0 brownscript
+0 spawn dark ship ring 400.0 -20.0 0.0 302.0 0.0 brownscript
+
+-100 spawn light ship ring 40.0 -20.0 0.0 250.0 0.0 brownscript
+0 spawn light ship ring 222.0 -20.0 -5.0 362.0 0.0 brownscript
+0 spawn light ship ring 289.0 -20.0 6.0 445.0 0.0 brownscript
+0 spawn light ship ring 380.0 -20.0 -2.0 560.0 0.0 brownscript
+0 spawn light ship ring 500.0 -20.0 -10.0 344.0 0.0 brownscript
+
+-100 spawn dark ship ring 550.0 -20.0 0.0 300.0 0.0 brownscript
+0 spawn dark ship ring 492.0 -20.0 -22.0 112.0 0.0 brownscript
+0 spawn dark ship ring 400.0 -20.0 8.0 199.0 0.0 brownscript
+0 spawn dark ship ring 343.0 -20.0 -4.0 280.0 0.0 brownscript
+0 spawn dark ship ring 250.0 -20.0 15.0 306.0 0.0 brownscript
+
+-1500.0 spawn light ship arrow -20.0 400.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 400.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn light ship arrow -20.0 340.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 340.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn light ship arrow -20.0 280.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 280.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn light ship arrow -20.0 220.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 220.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn light ship arrow -20.0 160.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 160.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn light ship arrow -20.0 100.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 100.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn light ship arrow -20.0 40.0 0.0 0.0 90.0 dash
+0 spawn light ship arrow 620.0 40.0 0.0 0.0 -90.0 dash
+
+-600.0 spawn dark ship arrow -20.0 40.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 40.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 100.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 100.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 160.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 160.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 220.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 220.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 280.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 280.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 340.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 340.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 400.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 400.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 460.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 460.0 0.0 0.0 -90.0 dash
+
+-100.0 spawn dark ship arrow -20.0 520.0 0.0 0.0 90.0 dash
+0 spawn dark ship arrow 620.0 520.0 0.0 0.0 -90.0 dash
+
+-600.0 spawn light ship arrow 40.0 820.0 0.0 0.0 0.0 dash
+0 spawn light ship arrow 40.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn light ship arrow 160.0 820.0 0.0 0.0 0.0 dash
+0 spawn light ship arrow 160.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn light ship arrow 280.0 820.0 0.0 0.0 0.0 dash
+0 spawn light ship arrow 280.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn light ship arrow 400.0 820.0 0.0 0.0 0.0 dash
+0 spawn light ship arrow 400.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn light ship arrow 520.0 820.0 0.0 0.0 0.0 dash
+0 spawn light ship arrow 520.0 -20.0 0.0 0.0 -180.0 dash
+
+-800.0 spawn dark ship arrow 520.0 820.0 0.0 0.0 0.0 dash
+0 spawn dark ship arrow 520.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn dark ship arrow 400.0 820.0 0.0 0.0 0.0 dash
+0 spawn dark ship arrow 400.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn dark ship arrow 280.0 820.0 0.0 0.0 0.0 dash
+0 spawn dark ship arrow 280.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn dark ship arrow 160.0 820.0 0.0 0.0 0.0 dash
+0 spawn dark ship arrow 160.0 -20.0 0.0 0.0 -180.0 dash
+
+-100.0 spawn dark ship arrow 40.0 820.0 0.0 0.0 0.0 dash
+0 spawn dark ship arrow 40.0 -20.0 0.0 0.0 -180.0 dash
+
+-800.0 spawn light ship final 300.0 -20.0 0.0 0.0 -180.0 oscillate
+
+-4200.0 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 90.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 150.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn light ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 150.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 210.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn dark ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 210.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 270.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn light ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn dark ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 210.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 270.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn dark ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn dark ship grunt 210.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 270.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn light ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn dark ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 210.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 270.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn dark ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn dark ship grunt 210.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 270.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn light ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn dark ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 210.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 270.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn dark ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn light ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 210.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 510.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn light ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn dark ship grunt 150.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 210.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 510.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn light ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 150.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 450.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn dark ship grunt 90.0 -20.0 0.0 300.0 0.0 spinscript
+0 spawn invisible wall wallblock 150.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 450.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 90.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 390.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 90.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 390.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 330.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 30.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn invisible wall wallblock 330.0 -20.0 0.0 300.0 0.0 noscript
+0 spawn light ship toughrosey 150.0 -20.0 0.0 100.0 -180.0 rosescript
+
+-120 spawn invisible wall wallblock 330.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 330.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 390.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 390.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 450.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 510.0 -20.0 0.0 300.0 0.0 noscript
+
+-120 spawn invisible wall wallblock 570.0 -20.0 0.0 300.0 0.0 noscript
+
+159000.0 STAGE_CLEAR

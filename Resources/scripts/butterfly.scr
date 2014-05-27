@@ -1,0 +1,164 @@
+butterfly
+STEP 0.0 iddqd on
+STEP 3.0 move 0.0 0.0
+STEP 0.0 iddqd off
+STEP 0.0 track player1 60
+
+STEP 0.2 repeat_until 4.0
+STEP 0.2 fire
+STEP 1.0 do_nothing
+STEP 0.5 setpolarity alternate
+
+STEP 0.2 repeat_until 4.0
+STEP 0.2 fire
+STEP 1.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.2 repeat_until 4.0
+STEP 0.2 fire
+
+STEP 0.2 setpolarity alternate
+STEP 1.0 do_nothing
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire
+STEP 1.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.2 repeat_until 4.0
+STEP 0.2 fire
+STEP 0.2 setpolarity alternate
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire
+STEP 1.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.2 repeat_until 2.0
+STEP 0.2 fire
+STEP 0.2 setpolarity alternate
+STEP 0.0 repeat_until 2.0
+STEP 0.2 fire
+STEP 0.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+
+STEP 0.0 setpolarity alternate
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+
+STEP 0.0 setpolarity alternate
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+
+STEP 0.0 setpolarity alternate
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+STEP 0.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+
+STEP 0.0 setpolarity alternate
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+
+STEP 0.0 setpolarity alternate
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+
+STEP 0.0 setpolarity alternate
+STEP 0.2 repeat_until 1.0
+STEP 0.2 fire
+STEP 0.0 setpolarity alternate
+
+STEP 0.5 track off
+STEP 0.0 move 0.0 200.0
+STEP 1.5 move 0.0 0.0
+
+STEP 0.5 rotate 80.0
+STEP 0.5 repeat_until 4.0
+STEP 0.2 fire_secondary
+
+STEP 0.0 rotate 0.0
+STEP 0.5 setpolarity alternate
+STEP 0.0 rotate -80.0
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire_secondary
+
+STEP 0.0 rotate 0.0
+STEP 0.5 setpolarity alternate
+STEP 0.0 rotate 120.0
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire_secondary
+
+STEP 0.0 rotate 0.0
+STEP 0.5 setpolarity alternate
+STEP 0.0 rotate -120.0
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire_secondary
+
+STEP 0.0 rotate 0.0
+STEP 0.5 setpolarity alternate
+STEP 0.0 rotate 120.0
+STEP 0.0 repeat_until 2.0
+STEP 0.1 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 2.0
+STEP 0.1 fire_secondary
+
+STEP 0.0 rotate 0.0
+STEP 0.5 setpolarity alternate
+STEP 0.0 rotate -120.0
+STEP 0.0 repeat_until 2.0
+STEP 0.1 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 2.0
+STEP 0.1 fire_secondary
+
+STEP 0.0 rotate 0.0
+STEP 0.5 setpolarity alternate
+STEP 0.0 rotate 120.0
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+
+STEP 0.0 setpolarity alternate
+STEP 0.0 repeat_until 1.0
+STEP 0.05 fire_secondary
+
+STEP 0.0 track player1 120.0
+STEP 2.0 move 0.0 -300.0
+STEP 5.0 do_nothing
+
+END

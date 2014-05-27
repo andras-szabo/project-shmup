@@ -1,0 +1,14 @@
+burster_right
+STEP 0.0 track player1 60
+STEP 0.0 move -100.0 600.0
+STEP 0.3 move 0.0 0.0
+STEP 0.7 do_nothing
+STEP 0.0 repeat_until 0.8
+STEP 0.06 fire
+STEP 1.5 do_nothing
+STEP 0.2 track off
+STEP 0.0 move 100 -400
+STEP 0.1 move 150 -400
+STEP 0.1 move 200 -400
+STEP 10.0 do_nothing
+END

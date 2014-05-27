@@ -1,0 +1,8 @@
+acc_big
+STEP 0.0 do_nothing
+STEP 0.1 speed_up 0.8
+STEP 0.2 speed_up 0.8
+STEP 0.2 speed_up 0.8
+STEP 0.2 speed_up 0.8
+STEP 10.0 do_nothing
+END

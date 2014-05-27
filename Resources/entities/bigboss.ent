@@ -1,0 +1,8 @@
+ID bigboss
+TYPE ship
+TEXTURE tex
+TEXRECT 72 5 58 58
+AABB -60 -25 120 50
+HPDMG 2000
+TURRET 0 -50
+SHOTS burst burst

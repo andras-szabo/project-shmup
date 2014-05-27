@@ -1,0 +1,10 @@
+bigrose
+BULLET basicbullet 0.0 20.0 0.0 200.0 0.0 noscript
+BULLET basicbullet 20.0 0.0 200.0 0.0 0.0 noscript
+BULLET basicbullet 0.0 -20.0 0.0 -200.0 0.0 noscript
+BULLET basicbullet -20.0 0.0 -200.0 0.0 0.0 noscript
+BULLET basicbullet 10.0 10.0 150.0 150.0 0.0 noscript
+BULLET basicbullet -10.0 10.0 -150.0 150.0 0.0 noscript
+BULLET basicbullet -10.0 -10.0 -150.0 -150.0 0.0 noscript
+BULLET basicbullet 10.0 -10.0 150.0 -150.0 0.0 noscript
+END

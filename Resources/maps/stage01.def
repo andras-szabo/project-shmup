@@ -1,0 +1,40 @@
+WORLD
+600 200000
+0.0 -600.0
+
+PLAYER noscript
+300.0 600.0 0.0
+
+SCRIPTS
+noscript test swingleft swingright picik_elejen picik_elejen2
+3_lefty 3_righty rosescript burster_right burster_left rswing1 lswing1
+brownscript zigzag zigzag2 swap_right swap_left acc_big acc_med acc_small acc_huge
+firstboss loader_dude kamikaze spinscript big_first big_second
+toothyscript swoosh butterfly bf_helper_left bf_helper_right
+explodescript dash oscillate
+END
+
+SHOTSCRIPTS
+playershot rosescatter burst burst2 5times4 unfolding beam bigshooter_left bigshooter_right
+weakbeam burst_slow spread triangles triangles_slow crossbeam playerspread last_one
+END
+
+TEXTURES
+tex playertex enemytex bullettex walltex toothtex butterflytex
+END
+
+ENTITIES
+player01 bigpart_left bigpart_right loader grunt weaker
+biff biff2 vertical boss1 explosionbullet bigbullet
+loaderbullet playerbullet01 basicbullet roundbullet smallbullet
+wallblock toothy toothybullet butterflyboss trianglebullet
+stronger_loader proundbullet ring arrow final toughrosey
+END
+
+BACKGROUND
+VEL 0.0 600.0
+COL 40 80 0 180
+ROT 0.0
+SPI 0.5
+FAD 0.3
+GRA 1 0 2 0

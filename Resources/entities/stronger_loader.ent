@@ -1,0 +1,8 @@
+ID stronger_loader
+TYPE boss
+TEXTURE tex
+TEXRECT 259 2 62 62
+AABB -25 -25 50 50
+HPDMG 24000
+TURRET 0 -25
+SHOTS triangles_slow triangles

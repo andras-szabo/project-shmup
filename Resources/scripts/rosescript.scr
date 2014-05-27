@@ -1,0 +1,9 @@
+rosescript
+STEP 0.0 rotate 75.0
+STEP 0.2 repeat_until 2.0
+STEP 0.1 fire
+STEP 0.0 rotate -75.0
+STEP 0.5 repeat_until 2.0
+STEP 0.1 fire
+STEP 0.3 do_nothing
+END

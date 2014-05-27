@@ -1,0 +1,8 @@
+ID final
+TYPE ship
+TEXTURE tex
+TEXRECT 259 2 62 62
+AABB -25 -25 50 50
+HPDMG 10000
+TURRET 0 -50
+SHOTS last_one last_one

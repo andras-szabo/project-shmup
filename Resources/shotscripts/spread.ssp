@@ -1,0 +1,15 @@
+spread
+
+BULLET roundbullet 20.0 -18.0 0.0 -300.0 -56.0 spinscript
+BULLET roundbullet -20.0 -18.0 0.0 -300.0 -32.0 spinscript
+BULLET roundbullet 20.0 -18.0 0.0 -300.0 -22.0 spinscript
+BULLET roundbullet -20.0 -18.0 0.0 -300.0 -12.0 spinscript
+BULLET roundbullet 10.0 -10.0 0.0 -300.0 -1.0 spinscript
+
+BULLET roundbullet -10.0 -10.0 0.0 -300.0 1.0 spinscript
+BULLET roundbullet 20.0 -18.0 0.0 -300.0 12.0 spinscript
+BULLET roundbullet 20.0 -18.0 0.0 -300.0 22.0 spinscript
+BULLET roundbullet -20.0 -18.0 0.0 -300.0 32.0 spinscript
+BULLET roundbullet -20.0 -18.0 0.0 -300.0 56.0 spinscript
+
+END

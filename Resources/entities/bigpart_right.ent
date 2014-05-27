@@ -1,0 +1,8 @@
+ID bigpart_left
+TYPE ship
+TEXTURE tex
+TEXRECT 256 65 30 48
+AABB -12 -22 24 44
+HPDMG 600
+TURRET 0 0
+SHOTS bigshooter_right bigshooter_left

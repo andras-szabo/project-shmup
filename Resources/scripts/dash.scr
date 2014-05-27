@@ -1,0 +1,7 @@
+dash
+STEP 0.0 scale 2.0
+STEP 0.0 forward 200.0
+STEP 0.2 move 0.0 0.0
+STEP 1.2 forward 800.0
+STEP 5.0 do_nothing
+END

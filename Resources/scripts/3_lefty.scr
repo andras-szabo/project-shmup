@@ -1,0 +1,18 @@
+3_lefty
+STEP 0.0 rotate 10.0
+STEP 0.0 move 420.0 880.0
+STEP 0.1 speed_up 0.8
+STEP 0.1 speed_up 0.8
+STEP 0.0 rotate 80.0
+STEP 0.1 speed_up 0.35
+STEP 0.0 rotate 60.0
+STEP 0.1 rotate 0.0
+STEP 0.1 rotate -30.0
+STEP 0.1 rotate 30.0
+STEP 0.3 rotate -40.0
+STEP 0.0 move -150.0 140.0
+STEP 0.1 speed_up 1.1
+STEP 0.0 rotate 40.0
+STEP 0.1 speed_up 1.5
+STEP 10.0 do_nothing
+END

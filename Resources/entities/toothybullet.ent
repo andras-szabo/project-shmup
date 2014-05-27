@@ -1,0 +1,7 @@
+ID toothybullet
+TYPE bullet
+TEXTURE bullettex
+TEXRECT 0 0 8 20
+AABB -3 -8 6 16
+HPDMG 30
+KICKBACK true

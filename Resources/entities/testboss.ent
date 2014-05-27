@@ -1,0 +1,8 @@
+ID testboss
+TYPE finalboss
+TEXTURE butterflytex
+TEXRECT 0 0 150 150
+AABB -60 -50 120 100
+HPDMG 1000
+TURRET 0 -50
+SHOTS burst burst

@@ -1,0 +1,4 @@
+swoosh
+STEP 0.1 repeat_until 0.8
+STEP 0.02 fire_secondary
+END

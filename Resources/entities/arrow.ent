@@ -1,0 +1,8 @@
+ID arrow
+TYPE ship
+TEXTURE tex
+TEXRECT 10 68 18 23
+AABB -4 -4 8 12
+HPDMG 260
+TURRET 0 0
+SHOTS burst crossbeam

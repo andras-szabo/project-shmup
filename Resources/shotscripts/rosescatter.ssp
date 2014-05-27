@@ -1,0 +1,6 @@
+rosescatter
+BULLET basicbullet 0.0 20.0 0.0 300.0 0.0 noscript
+BULLET basicbullet 20.0 0.0 300.0 0.0 0.0 noscript
+BULLET basicbullet 0.0 -20.0 0.0 -300.0 0.0 noscript
+BULLET basicbullet -20.0 0.0 -300.0 0.0 0.0 noscript
+END

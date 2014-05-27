@@ -1,0 +1,8 @@
+ID player01
+TYPE player
+TEXTURE tex
+TEXRECT 4 0 62 62
+AABB -21 -21 42 42
+HPDMG 200
+TURRET 0 -50
+SHOTS playershot playerspread

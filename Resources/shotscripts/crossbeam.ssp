@@ -1,0 +1,6 @@
+crossbeam
+BULLET trianglebullet -50.0 0.0 0.0 -400.0 -90.0 noscript
+BULLET trianglebullet 0.0 -50.0 0.0 -400.0 0.0 noscript
+BULLET trianglebullet 50.0 0.0 0.0 -400.0 90.0 noscript
+BULLET trianglebullet 0.0 50.0 0.0 -400.0 180.0 noscript
+END

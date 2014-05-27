@@ -1,0 +1,7 @@
+toothyscript
+STEP 0.1 repeat_until 0.3
+STEP 0.02 fire
+STEP 0.2 repeat_until 0.3
+STEP 0.02 fire
+STEP 0.1 do_nothing
+END

@@ -1,0 +1,37 @@
+WORLD
+600 100000
+0.0 -600.0
+
+PLAYER noscript
+300.0 600.0 0.0
+
+SCRIPTS
+noscript explodescript brownscript spinscript butterfly
+bf_helper_left bf_helper_right
+END
+
+SHOTSCRIPTS
+playershot burst spread crossbeam triangles triangles_slow
+END
+
+TEXTURES
+tex playertex enemytex bullettex walltex toothtex butterflytex
+END
+
+ENTITIES
+player01 explosionbullet
+playerbullet01
+grunt butterflyboss
+stronger_loader
+roundbullet
+trianglebullet
+
+END
+
+BACKGROUND
+VEL 0.0 600.0
+COL 40 80 0 180
+ROT 0.0
+SPI 10.0
+FAD 0.8
+GRA 1 0 2 0

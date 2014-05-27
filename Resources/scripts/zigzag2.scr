@@ -1,0 +1,75 @@
+zigzag2
+STEP 0.0 move -20.0 300.0
+STEP 0.1 turn 40.0
+STEP 0.2 turn 30.0
+STEP 0.1 speed_up 1.5
+STEP 0.1 turn 10.0
+STEP 0.1 speed_up 0.9
+STEP 0.1 turn -10.0
+STEP 0.1 speed_up 0.8
+STEP 0.1 turn -10.0
+STEP 0.0 speed_up 0.9
+STEP 0.0 turn -15.0
+STEP 0.1 speed_up 0.8
+STEP 0.0 repeat_until 0.2
+STEP 0.05 fire
+STEP 0.1 turn -10.0
+STEP 0.1 turn -10.0
+STEP 0.2 turn -30.0
+STEP 0.1 speed_up 1.1
+STEP 0.1 turn -40.0
+STEP 0.1 speed_up 1.2
+STEP 0.1 turn -35.0
+STEP 0.1 speed_up 1.2
+STEP 0.2 turn -10.0
+STEP 0.3 speed_up 1.2
+STEP 0.2 speed_up 0.8
+STEP 0.2 speed_up 0.8
+STEP 0.2 speed_up 0.8
+STEP 0.2 speed_up 0.8
+STEP 0.0 turn 10.0
+STEP 0.1 speed_up 0.8
+STEP 0.1 turn 20.0
+STEP 0.1 turn 30.0
+STEP 0.2 turn 30.0
+STEP 0.0 repeat_until 0.2
+STEP 0.05 fire
+STEP 0.0 turn 20.0
+STEP 0.2 speed_up 1.2
+STEP 0.0 turn 30.0
+STEP 0.1 speed_up 1.1
+STEP 0.0 turn 15.0
+STEP 0.1 speed_up 1.2
+STEP 0.2 speed_up 1.4
+STEP 0.2 speed_up 1.6
+STEP 0.2 speed_up 1.1
+STEP 0.1 speed_up 0.8
+STEP 0.2 speed_up 0.6
+STEP 0.0 repeat_until 0.2
+STEP 0.05 fire
+STEP 0.0 speed_up 0.5
+STEP 0.1 turn -30.0
+STEP 0.1 speed_up 0.8
+STEP 0.1 turn -30.0
+STEP 0.1 speed_up 0.8
+STEP 0.1 turn -30.0
+STEP 0.2 turn -20.0
+STEP 0.1 turn -20.0
+STEP 0.1 speed_up 1.4
+STEP 0.1 turn -20.0
+STEP 0.2 speed_up 1.4
+STEP 0.2 speed_up 1.6
+STEP 0.2 speed_up 1.6
+STEP 0.6 speed_up 0.8
+STEP 0.3 speed_up 0.8
+STEP 0.2 turn 10.0
+STEP 0.1 speed_up 0.6
+STEP 0.1 turn 30.0
+STEP 0.1 speed_up 0.6
+STEP 0.1 turn 30.0
+STEP 0.0 repeat_until 0.2
+STEP 0.05 fire
+STEP 0.1 turn 30.0
+STEP 0.2 speed_up 1.2
+STEP 8.4 do_nothing
+END

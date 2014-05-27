@@ -1,0 +1,8 @@
+ID biff
+TYPE ship
+TEXTURE tex
+TEXRECT 72 5 58 58
+AABB -25 -25 50 50
+HPDMG 120
+TURRET 0 -50
+SHOTS burst burst_slow

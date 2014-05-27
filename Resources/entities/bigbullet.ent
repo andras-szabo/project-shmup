@@ -1,0 +1,7 @@
+ID bigbullet
+TYPE bullet
+TEXTURE tex
+TEXRECT 217 131 30 30
+AABB -12 -12 24 24
+HPDMG 150
+KICKBACK false

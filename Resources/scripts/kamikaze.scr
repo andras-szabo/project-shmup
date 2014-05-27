@@ -1,0 +1,8 @@
+kamikaze
+STEP 0.0 scale 0.8
+STEP 0.0 track player1 80
+STEP 0.4 move 0.0 0.0
+STEP 0.2 repeat_until 6.0
+STEP 0.2 forward 420.0
+STEP 10.0 do_nothing
+END

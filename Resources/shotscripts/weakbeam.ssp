@@ -1,0 +1,5 @@
+weakbeam
+BULLET toothybullet -20.0 0.0 0.0 -300.0 0.0 noscript
+BULLET toothybullet -10.0 0.0 0.0 -300.0 0.0 noscript
+BULLET toothybullet 0.0 0.0 0.0 -300.0 0.0 noscript
+END

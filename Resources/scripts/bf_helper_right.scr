@@ -1,0 +1,60 @@
+bf_helper_right
+STEP 0.0 iddqd on
+STEP 3.0 move 0.0 0.0
+STEP 0.0 iddqd off
+STEP 0.0 rotate 16.0
+STEP 0.2 repeat_until 4.0
+STEP 0.4 fire_secondary
+STEP 0.0 rotate 0.0
+STEP 1.0 do_nothing
+STEP 0.5 setpolarity alternate
+STEP 0.2 rotate -16.0
+STEP 0.0 repeat_until 4.0
+STEP 0.4 fire_secondary
+STEP 0.0 rotate 0.0
+STEP 1.0 setpolarity alternate
+STEP 0.5 do_nothing
+STEP 0.0 rotate 16.0
+STEP 0.2 repeat_until 4.0
+STEP 0.4 fire_secondary
+STEP 0.0 rotate 0.0
+STEP 1.0 do_nothing
+STEP 0.5 setpolarity alternate
+
+STEP 0.2 rotate -16.0
+STEP 0.0 repeat_until 4.0
+STEP 0.4 fire_secondary
+STEP 0.0 rotate 0.0
+STEP 1.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.0 rotate 11.0
+STEP 0.2 repeat_until 4.0
+STEP 0.2 fire
+STEP 0.0 rotate 0.0
+STEP 1.0 do_nothing
+STEP 0.5 setpolarity alternate
+
+STEP 0.2 rotate -11.0
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire
+STEP 0.0 rotate 0.0
+STEP 1.0 setpolarity alternate
+
+STEP 0.5 do_nothing
+STEP 0.0 rotate 10.0
+STEP 0.2 repeat_until 4.0
+STEP 0.2 fire
+STEP 0.0 rotate 0.0
+STEP 1.0 do_nothing
+STEP 0.5 setpolarity alternate
+
+STEP 0.2 rotate -10.0
+STEP 0.0 repeat_until 4.0
+STEP 0.2 fire
+STEP 0.0 rotate 0.0
+STEP 1.0 setpolarity alternate
+
+STEP 2.0 move 0.0 -200.0
+
+END

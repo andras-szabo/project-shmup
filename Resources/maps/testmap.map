@@ -1,0 +1,31 @@
+START 0.0
+
+400.0 spawn dark ship butterflyboss 300.0 -20.0 0.0 30.0 -180.0 butterfly
+0 spawn light ship stronger_loader 30.0 -20.0 0.0 30.0 -180.0 bf_helper_left
+0 spawn light ship stronger_loader 570.0 -20.0 0.0 30.0 -180.0 bf_helper_right
+
+600 JUMP_TO 60000
+
+60000 JUMP_IF_NOT_DEAD 65000
+
+-100 rel_spawn invisible ship grunt 0.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -20.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -20.0 -20.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt 0.0 -20.0 0.0 0.0 0.0 explodescript
+
+-150 rel_spawn invisible ship grunt 0.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -30.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -30.0 -30.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt 0.0 -30.0 0.0 0.0 0.0 explodescript
+
+-150 rel_spawn invisible ship grunt 0.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -40.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -40.0 -40.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt 0.0 -40.0 0.0 0.0 0.0 explodescript
+
+-150 rel_spawn invisible ship grunt 20.0 0.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -40.0 -20.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt -20.0 -40.0 0.0 0.0 0.0 explodescript
+-150 rel_spawn invisible ship grunt 0.0 -40.0 0.0 0.0 0.0 explodescript
+
+65000 STAGE_CLEAR

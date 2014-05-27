@@ -1,0 +1,7 @@
+ID trianglebullet
+TYPE bullet
+TEXTURE tex
+TEXRECT 208 173 44 44
+AABB -15 -20 30 40
+HPDMG 42
+KICKBACK false

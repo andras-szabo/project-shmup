@@ -1,0 +1,12 @@
+swingleft
+STEP 0.0 rotate 360.0
+STEP 0.0 move 0.0 240.0
+STEP 0.5 move 60.0 200.0
+STEP 0.5 move 120.0 140.0
+STEP 0.5 move 180.0 100.0
+STEP 0.3 move 240.0 80.0
+STEP 0.3 move 300.0 50.0
+STEP 0.3 speed_up 1.4
+STEP 0.3 speed_up 2.0
+STEP 2.0 do_nothing
+END

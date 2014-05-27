@@ -1,0 +1,7 @@
+last_one
+BULLET roundbullet 0.0 0.0 0.0 -400.0 -18.0 spinscript
+BULLET roundbullet 0.0 0.0 0.0 -400.0 -9.0 spinscript
+BULLET roundbullet 0.0 0.0 0.0 -400.0 0.0 spinscript
+BULLET roundbullet 0.0 0.0 0.0 -400.0 9.0 spinscript
+BULLET roundbullet 0.0 0.0 0.0 -400.0 18.0 spinscript
+END

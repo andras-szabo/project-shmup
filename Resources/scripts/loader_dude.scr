@@ -1,0 +1,20 @@
+loader_dude
+STEP 0.0 iddqd on
+STEP 0.0 move 0.0 400.0
+STEP 0.3 move 0.0 0.0
+STEP 0.0 iddqd off
+STEP 0.0 rotate 40
+STEP 1.5 rotate 0.0
+STEP 0.2 rotate -60
+STEP 0.0 repeat_until 2.0
+STEP 0.03 fire
+STEP 0.0 rotate 0.0
+STEP 0.5 rotate 60
+STEP 0.0 repeat_until 2.0
+STEP 0.03 fire
+STEP 0.0 rotate 0.0
+STEP 0.5 rotate -60.0
+STEP 1.0 rotate 0.0
+STEP 0.5 move 0.0 -400.0
+STEP 10.0 do_nothing
+END

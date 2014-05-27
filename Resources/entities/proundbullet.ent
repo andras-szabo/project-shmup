@@ -1,0 +1,7 @@
+ID proundbullet
+TYPE bullet
+TEXTURE tex
+TEXRECT 292 132 10 10
+AABB -4 -4 8 8
+HPDMG 25
+KICKBACK false

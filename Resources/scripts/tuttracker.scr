@@ -1,0 +1,8 @@
+tuttracker
+STEP 0.0 track player1 180
+STEP 0.0 move 0.0 100.0
+STEP 0.3 repeat_until 2.5
+STEP 0.2 fire_secondary
+STEP 0.0 move 0.0 400.0
+STEP 12.0 do_nothing
+END

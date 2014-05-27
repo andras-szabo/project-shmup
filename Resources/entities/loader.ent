@@ -1,0 +1,8 @@
+ID loader
+TYPE ship
+TEXTURE tex
+TEXRECT 259 2 62 62
+AABB -25 -25 50 50
+HPDMG 2600
+TURRET 0 -25
+SHOTS beam triangles

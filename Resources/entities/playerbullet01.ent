@@ -1,0 +1,7 @@
+ID playerbullet01
+TYPE bullet
+TEXTURE tex
+TEXRECT 169 178 12 70
+AABB -4 -33 8 66
+HPDMG 50
+KICKBACK false

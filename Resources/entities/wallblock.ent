@@ -1,0 +1,6 @@
+ID wallblock
+TYPE wall
+TEXTURE tex
+TEXRECT 192 2 60 60
+AABB -26 -26 52 52
+HPDMG 5000

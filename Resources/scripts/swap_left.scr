@@ -1,0 +1,38 @@
+swap_left
+STEP 0.0 scale 0.1
+STEP 0.0 track player1 90
+STEP 0.0 iddqd on
+STEP 0.0 repeat_until 0.9
+STEP 0.05 scale_up 0.06
+STEP 0.0 scale 1.0
+STEP 0.0 iddqd off
+STEP 0.5 do_nothing
+STEP 0.0 move 0.0 170.0
+STEP 0.0 repeat_until 0.6
+STEP 0.1 turn 31
+STEP 0.1 move 0.0 0.0
+STEP 0.3 do_nothing
+STEP 0.0 repeat_until 0.3
+STEP 0.1 fire
+STEP 0.3 do_nothing
+STEP 0.0 move 0.0 -170.0
+STEP 0.0 repeat_until 0.6
+STEP 0.1 turn 31
+STEP 0.1 move 0.0 0.0
+STEP 0.3 do_nothing
+STEP 0.0 repeat_until 0.3
+STEP 0.1 do_nothing
+STEP 0.3 do_nothing
+STEP 0.0 move 0.0 170.0
+STEP 0.0 repeat_until 0.6
+STEP 0.1 turn 31
+STEP 0.1 move 0.0 0.0
+STEP 0.3 do_nothing
+STEP 0.0 repeat_until 0.3
+STEP 0.1 fire
+STEP 0.3 do_nothing
+STEP 0.0 track off
+STEP 0.0 rotate 270
+STEP 0.0 move 0.0 -700.0
+STEP 5.0 do_nothing
+END

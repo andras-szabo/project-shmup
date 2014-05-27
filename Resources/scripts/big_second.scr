@@ -1,0 +1,10 @@
+big_second
+STEP 0.0 move 0.0 -160.0
+STEP 0.0 repeat_until 3.2
+STEP 0.5 fire
+STEP 0.0 move -200.0 0.0
+STEP 1.68 do_nothing
+STEP 0.0 move 0.0 160.0
+STEP 0.0 repeat_until 14.0
+STEP 0.5 fire
+END

@@ -1,0 +1,7 @@
+ID roundbullet
+TYPE bullet
+TEXTURE tex
+TEXRECT 270 131 20 20
+AABB -8 -8 16 16
+HPDMG 75
+KICKBACK false

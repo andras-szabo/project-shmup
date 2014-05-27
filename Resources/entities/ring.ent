@@ -1,0 +1,8 @@
+ID ring
+TYPE ship
+TEXTURE tex
+TEXRECT 131 66 60 60
+AABB -25 -25 50 50
+HPDMG 300
+TURRET 0 0
+SHOTS burst crossbeam

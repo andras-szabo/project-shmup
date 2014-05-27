@@ -1,0 +1,6 @@
+ID vertical
+TYPE wall
+TEXTURE walltex
+TEXRECT 0 0 10 120
+AABB -5 -60 10 120
+HPDMG 5000

@@ -1,0 +1,7 @@
+ID basicbullet
+TYPE bullet
+TEXTURE tex
+TEXRECT 196 132 12 12
+AABB -5 -5 10 10
+HPDMG 32
+KICKBACK false

@@ -1,0 +1,4 @@
+spinscript
+STEP 0.0 rotate 720.0
+STEP 10.0 do_nothing
+END

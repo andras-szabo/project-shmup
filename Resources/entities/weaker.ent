@@ -1,0 +1,8 @@
+ID weaker
+TYPE ship
+TEXTURE tex
+TEXRECT 133 2 58 58
+AABB -25 -25 50 50
+HPDMG 120
+TURRET 0 0
+SHOTS rosescatter rosescatter

@@ -1,0 +1,7 @@
+ID explosionbullet
+TYPE bullet
+TEXTURE tex
+TEXRECT 250 131 16 16
+AABB -7 -7 14 14
+HPDMG 30
+KICKBACK false

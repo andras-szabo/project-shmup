@@ -1,0 +1,33 @@
+WORLD
+600 60000
+0.0 -600.0
+
+PLAYER tutscript
+300.0 600.0 0.0
+
+SCRIPTS
+noscript brownscript tutscript swingright swingleft spinscript
+tuttracker rosescript
+END
+
+SHOTSCRIPTS
+playershot burst rosescatter burst_slow
+END
+
+TEXTURES
+tex playertex enemytex bullettex walltex
+END
+
+ENTITIES
+player01 grunt biff weaker vertical rosey basicbullet
+bigboss explosionbullet playerbullet01 roundbullet
+horizontal wallblock
+END
+
+BACKGROUND
+VEL 0.0 500.0
+COL 0 200 0 100
+ROT 0.0
+SPI 0.5
+FAD 0.2
+GRA 2 0 1 0

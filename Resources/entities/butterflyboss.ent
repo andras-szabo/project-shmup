@@ -1,0 +1,8 @@
+ID butterflyboss
+TYPE finalboss
+TEXTURE tex
+TEXRECT 1 128 144 150
+AABB -60 -50 120 100
+HPDMG 100000
+TURRET 0 -50
+SHOTS spread crossbeam

@@ -1,0 +1,14 @@
+playershot
+BULLET
+playerbullet01
+-16.0 0.0
+0.0 -1300.0
+0.0
+noscript
+BULLET
+playerbullet01
+16.0 0.0
+0.0 -1300.0
+0.0
+noscript
+END
